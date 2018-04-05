@@ -3,10 +3,12 @@
 ## Print data
 
 ```js
+// js
 echo 'hello';
 ```
 
 ```php
+// php
 console.log('hello');
 ```
 
