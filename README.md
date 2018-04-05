@@ -2,8 +2,13 @@
 
 ## Print data
 
-`echo 'hello';`
-`console.log('hello');`
+```js
+echo 'hello';
+```
+
+```php
+console.log('hello');
+```
 
 ## Variable assignment
 
