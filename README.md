@@ -2,14 +2,14 @@
 
 ## Print data
 
-```php
-// php
-echo 'hello';
-```
-
 ```js
 // js
 console.log('hello');
+```
+
+```php
+// php
+echo 'hello';
 ```
 
 ## Variable assignment
