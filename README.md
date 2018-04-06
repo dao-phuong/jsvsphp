@@ -2,13 +2,13 @@
 
 ## Print data
 
-```js
-// js
+```php
+// php
 echo 'hello';
 ```
 
-```php
-// php
+```js
+// js
 console.log('hello');
 ```
 
